@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mizan/Desktop/Next Level Web Development/Mission_03/university-management/logs/winston/errors/.8a17d538b50d35fa1c8b854c0593a7e994157eaf-audit.json",
+    "files": [
+        {
+            "date": 1694516444634,
+            "name": "/home/mizan/Desktop/Next Level Web Development/Mission_03/university-management/logs/winston/errors/phu-error-2023-09-12-17.log",
+            "hash": "8d281ef2168e7e0ed80d959fdcfd0c895b4b38e81933547d62cf0f3fc29ca2bf"
+        }
+    ],
+    "hashType": "sha256"
+}

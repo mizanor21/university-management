@@ -1,0 +1,24 @@
+{
+  message: 'Successfully connect database!',
+  level: 'info',
+  label: '[PH]',
+  timestamp: '2023-09-12T11:00:46.199Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: '[PH]',
+  timestamp: '2023-09-12T11:00:46.208Z'
+}
+{
+  message: 'Successfully connect database!',
+  level: 'info',
+  label: '[PH]',
+  timestamp: '2023-09-12T11:02:39.477Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: '[PH]',
+  timestamp: '2023-09-12T11:02:39.484Z'
+}
